@@ -1,6 +1,13 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2358dd16-a46a-4fc1-8cbc-d45a7c1b1ca6" alt="Understanding the Hype Around Machine Learning" style="width: 100%; max-width: 800px;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Vishal Gorule</h1>
 <h3 align="center">A passionate SDE & AI/ML Engineer | Computer Vision and Gen-AI Enthusiast | Artificial Intelligence and Data Science Graduate</h3>
-
+<div align="right">
+  <image src= "https://github.com/user-attachments/assets/b2be7be5-f959-410f-9215-0d18a6de80f2" alt="Developer"
+    </image>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visionexpo&label=Profile%20views&color=0e75b6&style=flat" alt="visionexpo" /> </p>
 

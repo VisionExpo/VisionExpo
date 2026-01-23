@@ -27,6 +27,32 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+I write about Deep Learning, Neural Networks and AI optimization techniques. Check out my latest articles on Medium:
+
+- [CNNs: The Power House Behind Modern Computer Vision](Link Here)
+  *Published in Artificial Intelligence in Plain English (Sep 2025)*
+
+- [Mastering Model Training: A Deep Dive into the Top 5 Optimezers](Link Here)
+  *Published in Python's Gurus (Nov 2024)*
+
+- [Taming the Gradients: How Batch Normalization Boosts Neural Networks](Link Here)
+  *Published in Python's Gurus (Jul 2024)*
+
+- [Turbocharge Your Neural Networks: Top Variants of ReLU Activation](Link Here)
+  *Published in Python's Gurus (Jun 2024)*
+
+- [Unlocking Neural Networks: The Secret Sauce of Deep Learning](Link Here)
+  *Published in Python's Gurus (Jun 2024)*
+
+- [Offline vs Online Learning: Unpacking the Future of AI Training](Link Here)
+  *Published in Python's Gurus (Jun 2024)*
+
+- [From Overfitting to Overeating: How Regularization Helps](Link Here)
+  *Published in Artificial Intelligence in Plain English (Jun 2024)*
+
+- [Dropout Dramatics: Unvailing the Secret Weapon of Neural Networks](Link Here)
+  *Published in Artificial Intelligence in Plain English (Jun 2024)*
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

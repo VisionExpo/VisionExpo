@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visionexpo&label=Profile%20views&color=0e75b6&style=flat" alt="visionexpo" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VisionExpo)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🔭 I’m currently working on **Social.Ai**
 
 - 🌱 I’m currently learning **Gen-AI**

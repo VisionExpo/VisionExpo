@@ -11,17 +11,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visionexpo&label=Profile%20views&color=0e75b6&style=flat" alt="visionexpo" /> </p>
 
-- 🔭 I’m currently working on **Social.Ai**
+- 🔭 I’m currently working on **PrepMaster**
 
 - 🌱 I’m currently learning **Gen-AI**
 
 - 📝 I regularly write articles on [https://medium.com/@gorulevishal984](https://medium.com/@gorulevishal984)
 
-- 💬 Ask me about **Python, Data Visualization, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing**
+- 💬 Ask me about **Python, Data Science, ML & DL, Computer Vision, NLP, Gen-AI, Agentic-AI**
 
 - 📫 How to reach me **gorulevishal984@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wrzy01mCTS62uzG2kn4FBmlnxPWkAL1I/view?usp=drive_link](https://drive.google.com/file/d/1Wrzy01mCTS62uzG2kn4FBmlnxPWkAL1I/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y0VISSMD1i_woPbSW3hT3TBfoHqqOwXc/view?usp=drive_link](https://drive.google.com/file/d/1Y0VISSMD1i_woPbSW3hT3TBfoHqqOwXc/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

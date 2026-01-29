@@ -83,16 +83,17 @@ I write about Deep Learning, Neural Networks and AI optimization techniques. Che
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=visionexpo&show_icons=true&theme=default&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=visionexpo&show_icons=true&hide_border=true"
     height="165"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionexpo&layout=compact&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=visionexpo&layout=compact&hide_border=true"
     height="165"
     alt="Top Languages"
   />
 </div>
+
 
 <div align="center">
   <img

@@ -2,11 +2,18 @@
   <img src="https://github.com/user-attachments/assets/2358dd16-a46a-4fc1-8cbc-d45a7c1b1ca6" alt="AI Research" style="width: 100%; max-width: 800px;">
 </div>
 
-<h1 align="center">Hi, I'm Vishal Gorule </h1><h3 align="center">AI Researcher | Computer Vision (Edge AI) | Financial ML</h3>
+<h1 align="center">Hi, I'm Vishal Gorule </h1>
 
-<p align="center">  <em>Bridging the gap between Academic Research and Production Engineering. Currently optimizing Vision Models for Edge Devices and exploring Agentic Financial Systems.</em>
+<h3 align="center">
+AI Systems Engineer | Agentic AI & Multimodal Intelligence | Edge Vision & Financial ML
+</h3>
+
+<p align="center">
+<em>
+I design and deploy AI systems that bridge research and production — from OpticalRAG-powered enterprise intelligence to agentic decision systems and real-time Edge Vision.
+</em>
 </p>
-<br>
+
 
 <p align="center"> 
   <a href="https://drive.google.com/file/d/1Y0VISSMD1i_woPbSW3hT3TBfoHqqOwXc/view?usp=drive_link" target="_blank">  
@@ -29,14 +36,19 @@
 ---
 
 ### Research Interests & Focus
-- **Efficient Computer Vision:** Model Quantization (INT8), Pruning, and Real-time Inference on Edge Devices (YOLO optimizations for constrained hardware).
-- **Financial Machine Learning:** Multimodal analysis (Time-series + Sentiment) for Quantitative Trading and Agentic workflows.
-- **Generative AI:** Building RAG Pipelines and fine-tuning Local LLMs (Llama-3/Mistral) for domain-specific tasks.
+- **Agentic & Enterprise AI Systems:** OpticalRAG, multimodal retrieval, long-context reasoning, and evaluation-driven design.
+- **Efficient Computer Vision:** YOLO optimization, quantization (INT8), pruning, and real-time inference on edge devices.
+- **Financial Machine Learning:** Time-series modeling, multimodal signals, and agentic workflows for decision intelligence.
   
-### Current Work & Projects- 
-- **PrepMaster:** Building an AI-driven interview preparation system using Gen-AI.
-- **FinSight (Agentic Analyst):** Developing an autonomous stock analysis platform using Multi-Agent Systems.
-- **Edge Surveillance:** Optimizing YOLO architectures for real-time anomaly detection on mobile GPUs (RTX 4060 Laptop).
+### Current Focus & Flagship Systems
+- **SamvidAI (Flagship):** Enterprise-grade contract intelligence platform using OpticalRAG for clause extraction, legal risk scoring, and explainable document reasoning.
+- **Pragya-OS:** Research-oriented agentic AI operating system enabling planning, memory, and reflection for long-horizon reasoning tasks.
+- **Animark-AI:** Multimodal generative pipeline for anime & 3D advertisement creation using prompt orchestration and visual synthesis.
+
+### Applied & Experimental Systems
+- **Intervux-AI:** Agent-based interview preparation and evaluation system with adaptive questioning and rubric-driven feedback.
+- **ArthaQuant:** Quantitative market intelligence and decision-support system focused on backtesting and risk-aware analytics.
+- **Traffyx-AI:** Traffic forecasting and urban mobility intelligence system using spatiotemporal ML models.
 
 ---
 

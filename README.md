@@ -79,20 +79,28 @@ I write about Deep Learning, Neural Networks and AI optimization techniques. Che
 
 ---
 
-<h3 align="center"> Github Analytics</h3>
+<h3 align="center">GitHub Analytics</h3>
 
-<div align="center"> 
-  <a href="https://github.com/visionexpo">
-    <img src="https://github-readme-stats.vercel.app/api?username=visionexpo&show_icons=true&locale=en" alt="Stats" height="165"/>
-  </a>
-  <a href="https://github.com/visionexpo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=visionexpo&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
-  </a>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=visionexpo&show_icons=true&theme=default&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionexpo&layout=compact&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </div>
 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visionexpo&" alt="Streak" />
-</p>
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=visionexpo&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=visionexpo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

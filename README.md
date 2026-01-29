@@ -88,9 +88,6 @@ I write about Deep Learning, Neural Networks and AI optimization techniques. Che
   />
 </div>
 
-![Metrics](https://metrics.lecoq.io/visionexpo?template=classic&base.activity=true&base.repositories=true&languages=true&languages.limit=6)
-
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=visionexpo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>

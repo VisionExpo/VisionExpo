@@ -1,93 +1,140 @@
-<div align="center"> 
-  <img src="https://github.com/user-attachments/assets/2358dd16-a46a-4fc1-8cbc-d45a7c1b1ca6" alt="AI Research" style="width: 100%; max-width: 800px;">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2358dd16-a46a-4fc1-8cbc-d45a7c1b1ca6" alt="AI Systems" style="width: 100%; max-width: 800px;">
 </div>
 
-<h1 align="center">Hi, I'm Vishal Gorule </h1>
+<h1 align="center">Hi, I'm Vishal Gorule 👋</h1>
 
 <h3 align="center">
-AI Systems Engineer | Agentic AI & Multimodal Intelligence | Edge Vision & Financial ML
+AI Systems Engineer • Evaluation-Driven AI • Multimodal & Edge Intelligence
 </h3>
 
 <p align="center">
 <em>
-I design and deploy AI systems that bridge research and production — from OpticalRAG-powered enterprise intelligence to agentic decision systems and real-time Edge Vision.
+I design and build end-to-end AI systems that operate under uncertainty — focusing on evaluation, reliability, and real-world constraints rather than demos or toy benchmarks.
 </em>
 </p>
 
-
-<p align="center"> 
-  <a href="https://drive.google.com/file/d/1Y0VISSMD1i_woPbSW3hT3TBfoHqqOwXc/view?usp=drive_link" target="_blank">  
-    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"> 
-  </a> 
-  <a href="https://www.linkedin.com/in/vishal-gorule/" target="_blank">  
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
-  </a> 
-  <a href="mailto:gorulevishal984@gmail.com">  
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
-  </a> 
-  <a href="https://medium.com/@gorulevishal984" target="_blank">  
-    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> 
-  </a> 
-  <a href="https://instagram.com/vishu_gorule_0909" target="_blank">  
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Y0VISSMD1i_woPbSW3hT3TBfoHqqOwXc/view">
+    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-gorule/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gorulevishal984@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@gorulevishal984">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### Research Interests & Focus
-- **Agentic & Enterprise AI Systems:** OpticalRAG, multimodal retrieval, long-context reasoning, and evaluation-driven design.
-- **Efficient Computer Vision:** YOLO optimization, quantization (INT8), pruning, and real-time inference on edge devices.
-- **Financial Machine Learning:** Time-series modeling, multimodal signals, and agentic workflows for decision intelligence.
-  
-### Current Focus & Flagship Systems
-- **SamvidAI (Flagship):** Enterprise-grade contract intelligence platform using OpticalRAG for clause extraction, legal risk scoring, and explainable document reasoning.
-- **Pragya-OS:** Research-oriented agentic AI operating system enabling planning, memory, and reflection for long-horizon reasoning tasks.
-- **Animark-AI:** Multimodal generative pipeline for anime & 3D advertisement creation using prompt orchestration and visual synthesis.
+## 🧠 What I Build
 
-### Applied & Experimental Systems
-- **Intervux-AI:** Agent-based interview preparation and evaluation system with adaptive questioning and rubric-driven feedback.
-- **ArthaQuant:** Quantitative market intelligence and decision-support system focused on backtesting and risk-aware analytics.
-- **Traffyx-AI:** Traffic forecasting and urban mobility intelligence system using spatiotemporal ML models.
+I work at the intersection of **AI research and production engineering**, with a focus on systems that must:
+
+- Handle noisy, imperfect real-world inputs  
+- Produce **deterministic, explainable outputs**  
+- Be evaluated, measured, and stress-tested — not just generated  
+
+My work emphasizes **architecture, evaluation, and failure modes** over surface-level demos.
 
 ---
 
-### The Research Lab (My Stack)
-**Core Research & Modeling**<p>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="pytorch"/>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="tensorflow"/>  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit_learn"/>  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="opencv"/>  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=python&logoColor=white" alt="seaborn"/></p>
-**MLOps, Deployment & Tools**<p>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker"/>  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="aws"/>  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="linux"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="mongodb"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql"/></p>
+## 🚀 Flagship Systems (v1.0 – Stable)
+
+### **SamvidAI** — Enterprise Document Intelligence
+- Layout-aware OpticalRAG system for legal & procurement documents  
+- OCR → layout parsing → retrieval → LLM reasoning → deterministic risk scoring  
+- Designed for noisy PDFs, ambiguous clauses, and explainable outputs  
+- Includes tests, failure handling, metrics, and end-to-end execution artifacts  
+
+**Focus:** document understanding, evaluation under noise, system reliability
 
 ---
 
-### Technical Writing & Research Notes
-I write about Deep Learning, Neural Networks and AI optimization techniques. Check out my latest articles on Medium:
+### **IntervuxAI** — Interview Evaluation System
+- Agent-based interview simulation and evaluation pipeline  
+- Generates structured, rubric-driven feedback (clarity, confidence, correctness)  
+- Emphasizes evaluation logic, scoring consistency, and failure analysis  
+- Produces machine-readable reports from live or scripted inputs  
 
-- [CNNs: The Power House Behind Modern Computer Vision](https://medium.com/@gorulevishal984)  *Published in Artificial Intelligence in Plain English (Sep 2025)*
-  
-- [Mastering Model Training: A Deep Dive into the Top 5 Optimizers](https://medium.com/@gorulevishal984)  *Published in Python's Gurus (Nov 2024)*
-  
-- [Taming the Gradients: How Batch Normalization Boosts Neural Networks](https://medium.com/@gorulevishal984)  *Published in Python's Gurus (Jul 2024)*
-  
-- [Turbocharge Your Neural Networks: Top Variants of ReLU Activation](https://medium.com/@gorulevishal984)  *Published in Python's Gurus (Jun 2024)*
-  
-- [Unlocking Neural Networks: The Secret Sauce of Deep Learning](https://medium.com/@gorulevishal984)  *Published in Python's Gurus (Jun 2024)*
-  
-- [Offline vs Online Learning: Unpacking the Future of AI Training](https://medium.com/@gorulevishal984)  *Published in Python's Gurus (Jun 2024)*
-  
-- [From Overfitting to Overeating: How Regularization Helps](https://medium.com/@gorulevishal984)  *Published in Artificial Intelligence in Plain English (Jun 2024)*
-  
-- [Dropout Dramatics: Unveiling the Secret Weapon of Neural Networks](https://medium.com/@gorulevishal984)  *Published in Artificial Intelligence in Plain English (Jun 2024)*
+**Focus:** human evaluation, subjective signal modeling, scoring systems
 
 ---
 
-<h3 align="center">GitHub Analytics</h3>
+## ⚙️ Applied & Performance Systems
+
+### **TraffyxAI**
+- Real-time traffic intelligence pipeline  
+- Detection → tracking → violation logic with latency, FPS, and memory profiling  
+- Built with performance constraints and system metrics as first-class concerns  
+
+**Focus:** edge vision, performance engineering, real-time systems
+
+---
+
+## 🧪 Research Directions (Exploratory)
+
+- **Pragya-OS:** Exploration of agent-native operating systems for long-horizon planning, memory, and reflection  
+- **Animark-AI:** Experimental multimodal generation pipelines for visual storytelling and advertising  
+
+*(Research explorations — not positioned as finished products)*
+
+---
+
+## 📊 Execution Evidence (No Demo Videos)
+
+Instead of videos, my projects emphasize **reproducible proof**:
+
+- End-to-end input → output examples  
+- Deterministic JSON / report outputs  
+- Latency and pipeline metrics  
+- Explicit failure cases and trade-off documentation  
+
+These artifacts are available inside each repository under `/examples`, `/docs`, and `/assets`.
+
+---
+
+## 🧰 Technical Stack
+
+**Modeling & Research**  
+Python • PyTorch • TensorFlow • Scikit-learn • OpenCV • Pandas  
+
+**Systems & MLOps**  
+Docker • Linux • AWS • GCP • Git • MongoDB • MySQL  
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I write about deep learning fundamentals, optimization, and applied AI:
+
+- CNNs and modern computer vision  
+- Optimizers, normalization, and training dynamics  
+- Practical trade-offs in real-world ML systems  
+
+📖 Articles published on *Artificial Intelligence in Plain English* and *Python’s Gurus*.
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=visionexpo&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=visionexpo&hide_border=true"/>
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=visionexpo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=visionexpo&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+
+---
+
+### 🔍 Currently Interested In
+- Applied ML / AI Systems Engineering roles  
+- Evaluation-driven AI and agentic systems  
+- Multimodal intelligence under real-world constraints  
+
+If you’re interested in **how systems behave when things go wrong**, we’ll get along well.
